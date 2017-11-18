@@ -1,0 +1,47 @@
+.background    { background-image: url("http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/798/full/abstract-seamless-crumpled-tissue-textures-3.png");
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: url("https://s8.postimg.org/46qd81vp1/Lava.gif") no-repeat center;
+                 background-size: cover;  }
+.wall          { background: url("https://lh3.googleusercontent.com/EAsTchvj3uQ4fUjUlLxNcf3CDfloAUcEaBV4CgsXtodiEMKnjNdZwq1HYrmLNof2HFdI8QpuyJh__5l5xIXKh8I=s400") no-repeat center;
+                 background-size: cover;  }
+.platform      { background: url("https://lh3.googleusercontent.com/EAsTchvj3uQ4fUjUlLxNcf3CDfloAUcEaBV4CgsXtodiEMKnjNdZwq1HYrmLNof2HFdI8QpuyJh__5l5xIXKh8I=s400") no-repeat center;
+                 background-size: cover;  }
+.floater1      { background: limegreen;
+                 opacity: .15;   }
+.water         { background: url("https://img-fotki.yandex.ru/get/3213/45987964.b0/0_15ea73_4e464fcf_S") no-repeat center;
+                 background-size: cover;  }
+
+.actor         { position: absolute;  }
+.player        { background: lightgrey; }
+.coin          { background: url("https://thumbs.gfycat.com/DarlingAcceptableHapuku-max-1mb.gif") no-repeat center;
+                 background-size: cover;  }
+.key           { background: url("http://vignette1.wikia.nocookie.net/fantendo/images/8/82/SuperKeySMSJ.png/revision/latest?cb\x3d20100619173736") no-repeat center;
+                 background-size: cover;  }
+}
+.floater2      { background: grey;    }
+.speck         { background: url("https://s8.postimg.org/46qd81vp1/Lava.gif") no-repeat center;
+                 background-size: cover;  }
+.speck2        { background: url("https://img-fotki.yandex.ru/get/3213/45987964.b0/0_15ea73_4e464fcf_S") no-repeat center;
+                 background-size: cover;  }
+.door          { background: url("https://i.pinimg.com/originals/02/e6/65/02e66561a7e42e00543f126e0532e791.jpg") no-repeat center;
+                 background-size: cover;  }
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
+
+
+.lost .player {
+  background: rgb(160, 64, 64);
+}
+.lost2 .player {
+  background: rgb(47, 111, 142);
+}
+.won .player {
+  box-shadow: -4px -7px 8px white, 4px -7px 8px white;
+}
